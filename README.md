@@ -1,2 +1,2 @@
 # CalculadoraBasica
-Calculadora basica en c# con windows forms. Creada con fines academicos de aprendizaje.
+Calculadora basica en c# con windows forms. Creada con fines academicos.
